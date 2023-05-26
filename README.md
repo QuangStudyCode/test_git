@@ -2,6 +2,8 @@
 
 ![Example image](imagesL3.jpg)
 #Screenshot
-| Ảnh 1 | Ảnh 2 |
-| --- | --- | --- |
-| ![Ảnh 1](New folder/login.jpg) | ![Ảnh 2](New folder/login1.jpg) |
+
+| Cột 1 | Cột 2 |
+| --- | --- |
+| ![Mô tả ảnh 1](New folder/login.jpg) | ![Mô tả ảnh 2](New folder/login1.jpg) |
+| ![Mô tả ảnh 3](New folder/home.jpg) | ![Mô tả ảnh 4](New folder/home1.jpg) |

@@ -2,5 +2,6 @@
 
 ![Example image](imagesL3.jpg)
 #Screenshot
-![image](New folder/login.jpg)
-![image](New folder/login1.jpg)
+| Ảnh 1 | Ảnh 2 |
+| --- | --- | --- |
+| ![Ảnh 1](New folder/login.jpg) | ![Ảnh 2](New folder/login1.jpg) |
